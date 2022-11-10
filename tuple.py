@@ -10,6 +10,7 @@ print(s)
 s1 = (1)  # wrong way
 print(s1)
 
-tt = (2, 3, 4, 2, 3, 4, 2, 3, 2, 3)
+tt = (2, 3, 4, 2, 3, 4, 2, 3, 2, 3, "hh")
+print(tt)
 print(tt.count(3))
 print(tt.index(4))
