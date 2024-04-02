@@ -26,8 +26,8 @@ print(type(name))
 name = int(name)  # type casting
 print(type(name))
 print(name)
-a="hi "
-b="rushi"
-c=a+b
+a = "hi "
+b = "rushi"
+c = a + b
 print(c)
 print(b.__len__())
