@@ -11,3 +11,7 @@ for i in range(1, 10, 2):  # (start,stop,stepsize)
     if a < 6:
         pass  # do nothing statement
     print("done")
+
+
+
+    
